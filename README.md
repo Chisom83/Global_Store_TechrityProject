@@ -92,28 +92,30 @@ Insight:
 4. Highest Average Profit Subcategory in Australia
 
 Insight:
-   - Appliances stood out as the most profitable subcategory.
+   - Appliances stood out as the most average profitable subcategory.
 > Visualization
 
 5. Nigeria's Profitability (2014 vs Other African Countries)
 
 > Visualization: 
 Insight:
-   - Across 45 African countries that patronize the store Nigeria, has the highest customers and order volume but lowest profit.
-   - In order of ranking in total Sales Nigeria ranked the fifth and the least in total profit showing that they are making sales but not generating profit at all.
-   - High discount rates were the primary factors causing the low profitability.
-   - Shipping cost is not significant in the cause of low profitability .
-
+   - Across 45 African countries that patronize the store, Nigeria has the highest customers and order volume but lowest profit.
+   - In order of ranking in total Sales Nigeria ranked the fifth and the least in total profit showing that they are making sales but generating no profit at all.
+   - High discount rates is the primary factors leading to low profit.
+   - Discounts are applied to every product ordered, which significantly reduces profit margins.
+   - shipping costs in Nigeria are relatively moderate, and not a contributing factor to the poor profit performance.
+  
 ### Recommendations
+- Temporarily Eliminate Discounts:
+   - Remove all product discounts for a three-month trial period, monitor the effect on sales, customer retention, and profit. This will help evaluate whether discounts are essential for maintaining customer activity.
 
-- Reduce or remove discount in underperforming markets like Nigeria.
-- Consider non-monetary incentives (e.g., bulk bonus) instead of discounts.
-- Apply discounts only to bulk purchases (e.g., 5+ items).
-- Conduct a 3-month test period in key markets to monitor impact of reduced discounts.
-
+- Adjust Discount Strategy if Necessary:
+   - If removing discounts results in a significant drop in customer engagement, reintroduce discounts only on bulk purchases ( e.g.,5 items and above) and ensure that discount rates remain below the average discount rate of the store.
+   - Alternatively, offer non-monetary incentives such as free gifts for purchases of five or more different items.
+   
 ### Conclusion
 
-Discounting is a key driver of low profitability despite strong sales. Top-performing markets (e.g., United State, South African) had minimal or no discounts. Strategic reduction in discounts can significantly improve profit without sacrificing sales volume.
+Discounting is a key driver of low profitability despite strong sales. Top-performing markets (e.g., United State, South African in the African region) had minimal or no discounts. Strategic reduction in discounts can significantly improve profit without sacrificing sales volume.
 
 ### Dashboard
 link to dataset 
