@@ -1,1 +1,105 @@
 # Global_SuperStore
+## Overview
+Global Superstore is a global online retailer based in New York, boasting a broad product catalogue and aiming to be a one-stop-shop for its customers. Global Superstore’s
+clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. 
+
+This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones). 
+You are contracted as a Data Analyst to help Global Superstore analyze and draw outmeaningful insight from the Superstore dataset, which would aid management in making informed decisions to improve performance and profitability. 
+
+## KPIs and Bussiness Requirement
+### KPIs
+- Total Sales 
+- Total Profit 
+- Average Discount  
+- Total Orders 
+
+### Business REquirement
+AVG. Shipping cost 
+Global superstore 
+The dataset was already clean so I only removed column not necessary for my analysis. Ceated a clander table to to ensure time base analysis.
+Calculate my KPI and other necessary dax measure needed for my analysis.
+In calculating the measures I created a new table to house all my measure needed for my analysis.
+
+KPI 
+Total sales () picture of the total sales 
+The measure used. Calculate the total sales across all transactions.
+
+Total profit () picture of the total profit 
+The measure used. Calculate the total profit the store actualize after all expenses 
+
+AVG. Discount () picture of the average discount 
+The measure used. Calculate the average discount across all products 
+
+Total Orders () picture of the total orders 
+The measure used. Calculate the total numbers of orders placed by customer 
+
+AVG. Shipping cost () picture of the AVG shipping Cost . The measure used. Calculate the AVG. Shipping cost across all providers.
+
+Total customer () picture of the total customer 
+The  measure used.Total customer across all the countries
+Business requirement 
+1. What are the three countries that generated the highest total profit for Global Superstore
+in 2014? 
+The picture of the chart 
+Insight: uK, London and Canada generates the highest profit for the store in 2014 but  UK still remains the top country generating profit across others years.
+UK store .has a strong customer presence other than the order countries.
+Measure used if any
+b) For each of these three countries, find the three products with the highest total profit.
+Specifically, what are the products’ names and the total profit for each product? 
+
+I showed it using a tooltip is it necessary to add it in my git hub 
+
+2.Identify the 3 subcategories with the highest average shipping cost in the United States. 
+The picture of the chart.
+
+Insight: these shows that these products are heavy and incure more charges than the others product shipped in the UK 
+
+Measures used if any 
+
+3. a) Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries? 
+
+To achieve this I created a different dashboard to showcase the African Market Analysis where I calculated the following KPI 
+African total customer () picture of the chart 
+Measure used. Calculate the total customer across all African countries where the store operates.
+African AVG. Discount () picture of the KPI
+Measure used. Calculate the average discount across the different African countries 
+African total sales() picture of the KPI 
+Measure used. Calculate the total sales across all products sold in the African countries.
+African shipping cost () picture of the KPI 
+Measure used. Calculate the shipping cost across the different African countries 
+
+To answer the question the picture of the table used 
+Insight: Nigeria is least performing country over the years the store operates in the aspect of AVG. Profit. Despict the fact that it generates sales in order of ranking across 45 African countries the business operates it ranked the fifth in sales and least in profit and average profit. And also having the highest customer, orders and quantity of products ordered.
+The store has been focusing on sales and customer and orders volumes overlooking their profit. They're making sales but generating nothing in profit. Showing that the Nigerian market is functional with profit generated from the other countries.
+b) What factors might be responsible for Nigeria’s poor performance? You might want to
+investigate shipping costs and the average discount as potential root causes. 
+
+Shipping cost is not a factor responsible for it's poor performance from my analysis when compared to other countries shipping cost. While average discount is is a key factor responsible for its poor performance. Discount are applied to every product ordered which significantly reduces profits margin. It discount rate help increase orders and sales but reduces profit. And discount of every product is above the average discount for Africa market.
+
+4. Which city is the least profitable (in terms of average profit) in the United States? For this
+analysis, discard the cities with less than 10 Orders. 
+
+Picture of the table used for the analysis 
+Insight: After discarding cities less than ten Lancaster happens to be the least profit City in the US does not have the least order after sorting but has a poor AVG Profit total  profit Performance.
+b) Why is this city’s average profit so low? 
+
+Discount shows to be the issue though their discount is not the highest across others cities but is seen that city with discount above the country avg discount 0. 16 generate little or no profit at all  which this city fall in. Further analysis shows that the goods with little discount or no discount have little or no profit value  and a high order of goods with high profit is seen in this city. In discount a key factor affecting this goods.
+
+5. Which product subcategory has the highest average profit in Australia? 
+Picture of the charts 
+I used a blue colour to show the difference between the highest subcategory and others.
+Insight: Applicance genrate the highest profit in Australia across all products sold it still top the market in Australia by generating the highest avg profit. It is been patronize more and has profit.
+
+Measure used if any
+ 
+Recommendation 
+To increase profits in most countries discount should be removed for a trial of three months and see if it will affect the store positively or negatively. In country like Nigeria Which they have already developed a strong market presence removing discount will help covert the customer and high volume in profit. In city, state and country not performing well  discount removals should be looked into.
+
+Discount can also be placed for customer that purchase five goods and above rather than putting discount on each purchase of a goods.
+
+Offer of non monetary offers should be placed on a bulk purchase and discount removed.
+
+The store should not close down but the following recommendation should be put into consideration and see which works more better.
+
+Conclusion 
+Form my analysis it's seen that discount is a key factor in low profits generation and high sales. Most countries like UK in general and Sudan in Africa performing well have no discount at all and they're performing greatly so discount should be removed than the store running low profits generation store with other store profit. When applying these steps the should still provide top notch services so that customers will still patronize dispect no discount.
