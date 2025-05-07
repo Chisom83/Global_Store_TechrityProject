@@ -3,10 +3,11 @@
 Global Superstore is a global online retailer based in New York, boasting a broad product catalogue and aiming to be a one-stop-shop for its customers. Global Superstore’s
 clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. 
 
-This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones). 
-You are contracted as a Data Analyst to help Global Superstore analyze and draw outmeaningful insight from the Superstore dataset, which would aid management in making informed decisions to improve performance and profitability. 
+This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
+I'm contracted as a Data Analyst to help Global Superstore analyze and draw outmeaningful insight from the Superstore dataset, which would aid management in making informed decisions to improve performance and profitability. 
 
-## KPIs and Bussiness Requirement
+### Project Objectives
+As a data analyst I was tasked with the following
 ### KPIs
 - Total Sales 
 - Total Profit 
@@ -28,46 +29,82 @@ You are contracted as a Data Analyst to help Global Superstore analyze and draw 
    - Assess Nigeria’s profitability (Total Profit) for 2014. How does it compare to other African countries? 
    - What factors might be responsible for Nigeria’s poor performance? You might want to investigate shipping costs and the average discount as potential root causes. 
 
-Global superstore 
-The dataset was already clean so I only removed column not necessary for my analysis. Ceated a clander table to to ensure time base analysis.
-Calculate my KPI and other necessary dax measure needed for my analysis.
-In calculating the measures I created a new table to house all my measure needed for my analysis.
+### Tools Used
+- Power BI
+   - for data Cleaning
+   - Modeling and Visualization
 
-KPI 
-Total sales () picture of the total sales 
+### Data Cleaning and Modeling
+- Removed irrelevant columns not necessary for my analysis.
+- Created a calendar table for time-based analysis.
+- Created a separate Measures Table for all DAX calculations
+
+### KPI 
+- Total sales
+-  picture of the total sales 
 The measure used. Calculate the total sales across all transactions.
 
-Total profit () picture of the total profit 
+- Total profit
+-  picture of the total profit 
 The measure used. Calculate the total profit the store actualize after all expenses 
 
-AVG. Discount () picture of the average discount 
+- Average Discount
+- picture of the average discount 
 The measure used. Calculate the average discount across all products 
 
-Total Orders () picture of the total orders 
+- Total Orders
+-  picture of the total orders
 The measure used. Calculate the total numbers of orders placed by customer 
 
-AVG. Shipping cost () picture of the AVG shipping Cost . The measure used. Calculate the AVG. Shipping cost across all providers.
+- Average Shipping cost () picture of the AVG shipping Cost . The measure used. Calculate the AVG. Shipping cost across all providers.
 
-Total customer () picture of the total customer 
+- Total customer 
+- picture of the total customer 
 The  measure used.Total customer across all the countries
-Business requirement 
-1. What are the three countries that generated the highest total profit for Global Superstore
-in 2014? 
-The picture of the chart 
-Insight: uK, London and Canada generates the highest profit for the store in 2014 but  UK still remains the top country generating profit across others years.
-UK store .has a strong customer presence other than the order countries.
-Measure used if any
-b) For each of these three countries, find the three products with the highest total profit.
-Specifically, what are the products’ names and the total profit for each product? 
 
-I showed it using a tooltip is it necessary to add it in my git hub 
+### Bussines Requirement & Insight
+1. Top 3 Countries by Profit (2014)
 
-2.Identify the 3 subcategories with the highest average shipping cost in the United States. 
-The picture of the chart.
+Insight:
+   - United States, India and China generated the highest profit in 2014.
+   - United States maintained profitability across all years due to a strong customer base.
+> Visualization: 
 
-Insight: these shows that these products are heavy and incure more charges than the others product shipped in the UK 
+- For each of these countries, the top 3 products by profit were identified using tooltips.
 
-Measures used if any 
+2. Highest Average Shipping Cost (USA)
+
+Insight:
+Heavier products like Tables, Bookcases, and Chairs incur higher shipping costs.
+
+
+3. Nigeria's Profitability (2014 vs Other African Countries)
+
+> Visualization: 
+
+
+
+Insight:
+
+Nigeria had the highest customers and order volume but lowest average profit.
+
+High discount rates were the primary reason. Shipping cost was not significant.
+
+
+4. Least Profitable City in the US
+
+Insight:
+
+Lancaster had low average profit despite high orders.
+
+Cities with discount rates above 0.16 showed reduced profitability.
+
+
+
+
+
+
+
 
 3. a) Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries? 
 
