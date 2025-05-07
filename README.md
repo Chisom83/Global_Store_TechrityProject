@@ -101,6 +101,19 @@ Insight:
    - High discount rates were the primary factors causing the low profitability.
    - Shipping cost is not significant in the cause of low profitability .
 
+### Recommendations
+
+- Reduce or remove discount in underperforming markets like Nigeria.
+- Consider non-monetary incentives (e.g., bulk bonus) instead of discounts.
+- Apply discounts only to bulk purchases (e.g., 5+ items).
+- Conduct a 3-month test period in key markets to monitor impact of reduced discounts.
+
+### Conclusion
+
+Discounting is a key driver of low profitability despite strong sales. Top-performing markets (e.g., United State, South African) had minimal or no discounts. Strategic reduction in discounts can significantly improve profit without sacrificing sales volume.
+
+
+---
 
 
 
@@ -113,15 +126,7 @@ Insight:
 
 
 
-Discount shows to be the issue though their discount is not the highest across others cities but is seen that city with discount above the country avg discount 0. 16 generate little or no profit at all  which this city fall in. Further analysis shows that the goods with little discount or no discount have little or no profit value  and a high order of goods with high profit is seen in this city. In discount a key factor affecting this goods.
 
-5. Which product subcategory has the highest average profit in Australia? 
-Picture of the charts 
-I used a blue colour to show the difference between the highest subcategory and others.
-Insight: Applicance genrate the highest profit in Australia across all products sold it still top the market in Australia by generating the highest avg profit. It is been patronize more and has profit.
-
-Measure used if any
- 
 Recommendation 
 To increase profits in most countries discount should be removed for a trial of three months and see if it will affect the store positively or negatively. In country like Nigeria Which they have already developed a strong market presence removing discount will help covert the customer and high volume in profit. In city, state and country not performing well  discount removals should be looked into.
 
