@@ -72,11 +72,17 @@ Insight:
 
 - For each of these countries, the top 3 products by profit were identified using tooltips.
 
-2. Highest Average Shipping Cost (USA)
+2. Three subcategories with the highest Average Shipping Cost (USA)
 
 Insight:
-Heavier products like Tables, Bookcases, and Chairs incur higher shipping costs.
+   - Heavier products like Copiers, Machines and Tables incur higher shipping costs.
+> visualization:
 
+3. Least Average Profitable City in the United States
+
+Insight:
+   - Lancaster had low average profit despite that its order is above ten.
+   - Cities with discount rates above 0.16 showed reduced profitability and average profitability.
 
 3. Nigeria's Profitability (2014 vs Other African Countries)
 
@@ -90,14 +96,6 @@ Nigeria had the highest customers and order volume but lowest average profit.
 
 High discount rates were the primary reason. Shipping cost was not significant.
 
-
-4. Least Profitable City in the US
-
-Insight:
-
-Lancaster had low average profit despite high orders.
-
-Cities with discount rates above 0.16 showed reduced profitability.
 
 
 
