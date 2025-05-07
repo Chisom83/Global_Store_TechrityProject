@@ -39,6 +39,9 @@ As a data analyst I was tasked with the following
 - Created a calendar table for time-based analysis.
 - Created a separate Measures Table for all DAX calculations
 
+### Measures 
+- All measures used in this analysis can be assessed here
+
 ### KPI 
 - Total sales
 -  picture of the total sales 
@@ -112,8 +115,8 @@ Insight:
 
 Discounting is a key driver of low profitability despite strong sales. Top-performing markets (e.g., United State, South African) had minimal or no discounts. Strategic reduction in discounts can significantly improve profit without sacrificing sales volume.
 
-
----
+### Dashboard
+link to dataset 
 
 
 
@@ -127,14 +130,6 @@ Discounting is a key driver of low profitability despite strong sales. Top-perfo
 
 
 
-Recommendation 
-To increase profits in most countries discount should be removed for a trial of three months and see if it will affect the store positively or negatively. In country like Nigeria Which they have already developed a strong market presence removing discount will help covert the customer and high volume in profit. In city, state and country not performing well  discount removals should be looked into.
 
-Discount can also be placed for customer that purchase five goods and above rather than putting discount on each purchase of a goods.
 
-Offer of non monetary offers should be placed on a bulk purchase and discount removed.
 
-The store should not close down but the following recommendation should be put into consideration and see which works more better.
-
-Conclusion 
-Form my analysis it's seen that discount is a key factor in low profits generation and high sales. Most countries like UK in general and Sudan in Africa performing well have no discount at all and they're performing greatly so discount should be removed than the store running low profits generation store with other store profit. When applying these steps the should still provide top notch services so that customers will still patronize dispect no discount.
