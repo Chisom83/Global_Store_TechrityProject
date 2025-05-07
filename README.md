@@ -13,8 +13,21 @@ You are contracted as a Data Analyst to help Global Superstore analyze and draw 
 - Average Discount  
 - Total Orders 
 
-### Business REquirement
-AVG. Shipping cost 
+### Business Requirement
+- Question 1
+   - What are the three countries that generated the highest total profit for Global Superstore in 2014?
+   - For each of these three countries, find the three products with the highest total profit. Specifically, what are the products’ names and the total profit for each product? 
+- Question 2
+   - Identify the 3 subcategories with the highest average shipping cost in the United States. 
+- Question 3
+   - Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with less than 10 Orders. 
+   - Why is this city’s average profit so low?
+- Question 4
+   - Which product subcategory has the highest average profit in Australia?
+- Question 5
+   - Assess Nigeria’s profitability (Total Profit) for 2014. How does it compare to other African countries? 
+   - What factors might be responsible for Nigeria’s poor performance? You might want to investigate shipping costs and the average discount as potential root causes. 
+
 Global superstore 
 The dataset was already clean so I only removed column not necessary for my analysis. Ceated a clander table to to ensure time base analysis.
 Calculate my KPI and other necessary dax measure needed for my analysis.
