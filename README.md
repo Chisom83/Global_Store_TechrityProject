@@ -83,53 +83,35 @@ Insight:
 Insight:
    - Lancaster had low average profit despite that its order is above ten.
    - Cities with discount rates above 0.16 showed reduced profitability and average profitability.
+   - High Discount is responsible for there low profit.
+> Visualization
 
-3. Nigeria's Profitability (2014 vs Other African Countries)
-
-> Visualization: 
-
-
+4. Highest Average Profit Subcategory in Australia
 
 Insight:
+   - Appliances stood out as the most profitable subcategory.
+> Visualization
 
-Nigeria had the highest customers and order volume but lowest average profit.
+5. Nigeria's Profitability (2014 vs Other African Countries)
 
-High discount rates were the primary reason. Shipping cost was not significant.
-
-
-
-
-
-
-
+> Visualization: 
+Insight:
+   - Across 45 African countries that patronize the store Nigeria, has the highest customers and order volume but lowest profit.
+   - In order of ranking in total Sales Nigeria ranked the fifth and the least in total profit showing that they are making sales but not generating profit at all.
+   - High discount rates were the primary factors causing the low profitability.
+   - Shipping cost is not significant in the cause of low profitability .
 
 
-3. a) Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries? 
 
-To achieve this I created a different dashboard to showcase the African Market Analysis where I calculated the following KPI 
-African total customer () picture of the chart 
-Measure used. Calculate the total customer across all African countries where the store operates.
-African AVG. Discount () picture of the KPI
-Measure used. Calculate the average discount across the different African countries 
-African total sales() picture of the KPI 
-Measure used. Calculate the total sales across all products sold in the African countries.
-African shipping cost () picture of the KPI 
-Measure used. Calculate the shipping cost across the different African countries 
 
-To answer the question the picture of the table used 
-Insight: Nigeria is least performing country over the years the store operates in the aspect of AVG. Profit. Despict the fact that it generates sales in order of ranking across 45 African countries the business operates it ranked the fifth in sales and least in profit and average profit. And also having the highest customer, orders and quantity of products ordered.
-The store has been focusing on sales and customer and orders volumes overlooking their profit. They're making sales but generating nothing in profit. Showing that the Nigerian market is functional with profit generated from the other countries.
-b) What factors might be responsible for Nigeria’s poor performance? You might want to
-investigate shipping costs and the average discount as potential root causes. 
 
-Shipping cost is not a factor responsible for it's poor performance from my analysis when compared to other countries shipping cost. While average discount is is a key factor responsible for its poor performance. Discount are applied to every product ordered which significantly reduces profits margin. It discount rate help increase orders and sales but reduces profit. And discount of every product is above the average discount for Africa market.
 
-4. Which city is the least profitable (in terms of average profit) in the United States? For this
-analysis, discard the cities with less than 10 Orders. 
 
-Picture of the table used for the analysis 
-Insight: After discarding cities less than ten Lancaster happens to be the least profit City in the US does not have the least order after sorting but has a poor AVG Profit total  profit Performance.
-b) Why is this city’s average profit so low? 
+
+
+ 
+
+
 
 Discount shows to be the issue though their discount is not the highest across others cities but is seen that city with discount above the country avg discount 0. 16 generate little or no profit at all  which this city fall in. Further analysis shows that the goods with little discount or no discount have little or no profit value  and a high order of goods with high profit is seen in this city. In discount a key factor affecting this goods.
 
