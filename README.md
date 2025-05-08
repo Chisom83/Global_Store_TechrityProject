@@ -1,5 +1,7 @@
 # Global_SuperStore
-## Overview
+
+## Table of Content
+## project Overview
 Global Superstore is a global online retailer based in New York, boasting a broad product catalogue and aiming to be a one-stop-shop for its customers. Global Superstore’s
 clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. 
 
@@ -29,10 +31,11 @@ As a data analyst I was tasked with the following
    - Assess Nigeria’s profitability (Total Profit) for 2014. How does it compare to other African countries? 
    - What factors might be responsible for Nigeria’s poor performance? You might want to investigate shipping costs and the average discount as potential root causes. 
 
-### Tools Used
+### Tools Used & Data Source
 - Power BI
    - for data Cleaning
    - Modeling and Visualization
+- Data used can be assessed here
 
 ### Data Cleaning and Modeling
 - Removed irrelevant columns not necessary for my analysis.
