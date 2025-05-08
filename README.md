@@ -35,7 +35,7 @@ As a data analyst I was tasked with the following
 - Power BI
    - for data Cleaning
    - Modeling and Visualization
-- Data used can be assessed here
+- Data Source: Global Superstore dataset in Microsoft Excel [download here].(https://www.microsoft.com)
 
 ### Data Cleaning and Modeling
 - Removed irrelevant columns not necessary for my analysis.
