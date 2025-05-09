@@ -65,10 +65,16 @@ As a data analyst I was tasked with the following
 The measure used. Calculate the average discount across all products 
 
 - Total Orders
--  picture of the total orders
-The measure used. Calculate the total numbers of orders placed by customer 
 
-- Average Shipping cost () picture of the AVG shipping Cost . The measure used. Calculate the AVG. Shipping cost across all providers.
+![Total Orders](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050834.png?raw=true)
+
+- Insight:
+- Measure Used:
+
+- Average Shipping cost
+
+- Insight:
+- Measure Used:
 
 - Total customer 
 - picture of the total customer 
