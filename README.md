@@ -91,7 +91,7 @@ As a data analyst I was tasked with the following
 ### Bussines Requirement & Insight
 1. Top 3 Countries by Profit (2014)
 
-![Top 3 Countries by Profit](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20051839.png?raw=true)
+![Top 3 Countries by Profit](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20124943.png?raw=true)
 
 - Insight:
    - United States, India and China generated the highest profit in 2014.
