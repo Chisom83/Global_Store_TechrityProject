@@ -116,23 +116,35 @@ The  measure used.Total customer across all the countries
 - KPI Used in this dashboard
   ### Total Sales
  ![African Sales](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094543.png?raw=true)
-> Insight
+- Insight:
+    - Global Superstore generated more sales in 2014 than the other years.
+    - The line chart used in the KPI shows the sales trend by month in 2014 reavealing that Novermber $37,862.86 and December $33,802.731 generated the highest sales for the store in the Africa region.   
 - Measure Used: [Africa Total Sales](Dax_Measures.md#africa-total-sales)
+
 ### Total Profit
 ![Africa Profit](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094558.png?raw=true)
-> Insight
-> - Measure Used: [African Total Profit](Dax_Measures.md#africa-total-profit),
+- Insight
+   - Profit generated in 2014 is more than other years
+   - From the line chart it is seen that the profit generated in December $785.42 is low to be compared with the sales it genrated in 2014, this is due to its high discount rate.
+   - The discount is above the average discount rate.
+   - Novermber $6,667.84 and May $5,308,96 generated the highest profit and with minimal discout which is not above the average discount rate.
+ - Measure Used: [African Total Profit](Dax_Measures.md#africa-total-profit),
 
 ### Average Discount
 ![Africa Average Discount](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094922.png?raw=true)
-> Insight
+- Insight
+   - The average discount in 2014 is the least among other years which has a high impact in its profit.
+   - January is the with the hight discount of $0.18 followed by month with $0.17 September and December.
 - Measure Used: [Africa Average Discount](Dax_Measures.md#africa-average-discount)
 
 ### Total Customers
 ![Africa Customers](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094937.png?raw=true)
-> Insight
+- Insight
+  - Global Store customers increased in 2014, from 436 in the previous year to 521 and filtering over the years their customers do increase yearly showing their strong market presence in the Africa region.
+  - In 2014 their customers increased more in June, Novermber and December
 - Measure used:[Africa Total Customer](Dax_Measures.md#africa-total-customer) 
 
+###  Nigeria's Profitability (2014 vs Other African Countries)
 ![Nigeria Profitability](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094524.png?raw=true) 
 
 - Insight:
