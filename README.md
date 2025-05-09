@@ -92,6 +92,8 @@ The  measure used.Total customer across all the countries
 
 3. Least Average Profitable City in the United States
 
+![Least Average Profitable City](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20082042.png?raw=true)
+
 - Insight:
    - Lancaster had low average profit despite that its order is above ten.
    - Cities with discount rates above 0.16 showed reduced profitability and average profitability.
