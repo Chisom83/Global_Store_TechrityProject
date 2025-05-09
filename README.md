@@ -134,7 +134,8 @@ The  measure used.Total customer across all the countries
    - High discount rates is the primary factors leading to low profit.
    - Discounts are applied to every product ordered, which significantly reduces profit margins.
    - shipping costs in Nigeria are relatively moderate, and not a contributing factor to the poor profit performance.
-> Measures Used:
+
+- Measures Used:
   
 ### Recommendations
 - Temporarily Eliminate Discounts:
