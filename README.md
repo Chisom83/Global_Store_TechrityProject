@@ -98,9 +98,11 @@ Insight:
 
 4. Highest Average Profit Subcategory in Australia
 
-Insight:
+![Average profit subcategory_Australia](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20051856.png?raw=true)
+
+- Insight:
    - Appliances stood out as the most average profitable subcategory.
-> Visualization
+> Measure used
 
 5. Nigeria's Profitability (2014 vs Other African Countries)
 
