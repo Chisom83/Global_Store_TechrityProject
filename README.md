@@ -62,7 +62,7 @@ As a data analyst I was tasked with the following
 
 ### Average Discount
 
-![Average Discount)(https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050927.png?raw=true)
+![Average Discount](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050927.png?raw=true)
 
 - Insight:
 - Measure Used:
