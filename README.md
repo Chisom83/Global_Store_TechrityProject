@@ -54,8 +54,11 @@ As a data analyst I was tasked with the following
 - Measure Used:
 
 - Total profit
--  picture of the total profit 
-The measure used. Calculate the total profit the store actualize after all expenses 
+
+![Total Profit](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050818.png?raw=true)
+
+- Insight:
+- Measure Used
 
 - Average Discount
 - picture of the average discount 
