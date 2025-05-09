@@ -72,21 +72,21 @@ DIVIDE([TotalProfitPercity],[TotalOrdersPerCity]),
 BLANK()
 )
 ```
-## Total Africa Customers
+## Africa Total Customers
 ```DAX
 AfricaTotalCustomers = CALCULATE([Total Customers],Fact_Table[Region] = "Africa")
 ```
-## Total Africa Sales
+## Africa Total Sales
 ```DAX
 AfricaTotalSales = 
 CALCULATE([Total sales], Fact_Table[African Country] = "Africa")
 ```
-## Total Africa Profit
+## Africa Total Profit
 ```DAX
 AfricaTotalProfit = 
 CALCULATE([Total Profit], Fact_Table[African Country] = "Africa")
 ```
-## Average Africa Discount
+## Africa Average Discount
 ```DAX
 AfricaAvgDiscount = 
 CALCULATE([Average Discount], Fact_Table[African Country] = "Africa")
