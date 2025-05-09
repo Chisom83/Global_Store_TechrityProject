@@ -116,15 +116,22 @@ The  measure used.Total customer across all the countries
 - KPI Used in this dashboard
   ### Total Sales
  ![African Sales](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094543.png?raw=true)
-
+> Insight
+- Measure Used: [Africa Total Sales](Dax_Measures.md#africa-total-sales)
 ### Total Profit
 ![Africa Profit](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094558.png?raw=true)
+> Insight
+> - Measure Used: [African Total Profit](Dax_Measures.md#africa-total-profit),
 
 ### Average Discount
 ![Africa Average Discount](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094922.png?raw=true)
+> Insight
+- Measure Used: [Africa Average Discount](Dax_Measures.md#africa-average-discount)
 
 ### Total Customers
 ![Africa Customers](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094937.png?raw=true)
+> Insight
+- Measure used:[Africa Total Customer](Dax_Measures.md#africa-total-customer) 
 
 ![Nigeria Profitability](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094524.png?raw=true) 
 
@@ -135,7 +142,7 @@ The  measure used.Total customer across all the countries
    - Discounts are applied to every product ordered, which significantly reduces profit margins.
    - shipping costs in Nigeria are relatively moderate, and not a contributing factor to the poor profit performance.
 
-- Measures Used:
+- Measures Used:[Africa Total Sales](Dax_Measures.md#africa-total-sales), [African Total Profit](Dax_Measures.md#africa-total-profit), [Africa Average Discount](Dax_Measures.md#africa-average-discount), [Africa Total Quantity](Dax_Measures.md#africa-total-quantity), [Africa Total Orders](Dax_Measures.md#africa-total-orders), [Africa Total Shipping Cost](Dax_Measures.md#africa-total-shipping-cost), [Africa Total Customer](Dax_Measures.md#africa-total-customer) and the country column.
   
 ### Recommendations
 - Temporarily Eliminate Discounts:
