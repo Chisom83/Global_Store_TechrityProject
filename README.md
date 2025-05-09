@@ -77,6 +77,8 @@ Insight:
 > Visualization: 
 
 - For each of these countries, the top 3 products by profit were identified using tooltips.
+   - Hovering over each country reveals a tooltip showing the top 3 most profitable products in that region for 2014.
+  
 
 2. Three subcategories with the highest Average Shipping Cost (USA)
 
