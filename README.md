@@ -111,6 +111,10 @@ The  measure used.Total customer across all the countries
 
 5. Nigeria's Profitability (2014 vs Other African Countries)
 
+- To answer this question a second dashboard was created to easily compare Nigeria with other Africa countries based on sales, profit, discount, customers, orders, shipping cost etc.
+
+- KPI Used in this dashboard
+
 > Visualization: 
 Insight:
    - Across 45 African countries that patronize the store, Nigeria has the highest customers and order volume but lowest profit.
