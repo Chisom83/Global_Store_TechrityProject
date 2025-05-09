@@ -76,7 +76,7 @@ The  measure used.Total customer across all the countries
 - Insight:
    - United States, India and China generated the highest profit in 2014.
    - United States maintained profitability across all years due to a strong customer base.
-> Measure used: 
+> Measure used: [Total Profit](Dax_Measures.md#total-profit) and the country column
 
 - For each of these countries, the top 3 products by profit were identified using tooltips.
    - Hovering over each country reveals a tooltip showing the top 3 most profitable products in that region for 2014.
