@@ -123,6 +123,9 @@ The  measure used.Total customer across all the countries
 ### Average Discount
 ![Africa Average Discount](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094922.png?raw=true)
 
+### Total Customers
+![Africa Customers](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094937.png?raw=true)
+
 ![Nigeria Profitability](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094524.png?raw=true) 
 
 - Insight:
