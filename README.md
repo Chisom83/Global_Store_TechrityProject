@@ -47,8 +47,11 @@ As a data analyst I was tasked with the following
 
 ### KPI 
 - Total sales
--  picture of the total sales 
-The measure used. Calculate the total sales across all transactions.
+
+ ![Total Sales](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050748.png?raw=true) 
+
+- Insight:
+- Measure Used:
 
 - Total profit
 -  picture of the total profit 
