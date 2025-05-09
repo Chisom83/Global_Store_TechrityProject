@@ -1,17 +1,17 @@
 # Global_SuperStore
 
 ## Table of Content
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
-[Measures Used](measures-used)
+[Measures Used](#measures-used)
 
-[Bussines Requirement and Insight](bussines-requirement-and-insight)
+[Bussines Requirement and Insight](#bussines-requirement-and-insight)
 
-[Recommendations](recommendations)
+[Recommendations](#recommendations)
 
-[Conclusion](conclusion)
+[Conclusion](#conclusion)
 
-[Dashboard](dashboard)
+[Dashboard](#dashboard)
 
 ## Project Overview
 Global Superstore is a global online retailer based in New York, boasting a broad product catalogue and aiming to be a one-stop-shop for its customers. Global Superstore’s
