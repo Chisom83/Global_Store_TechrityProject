@@ -71,6 +71,7 @@ The  measure used.Total customer across all the countries
 ### Bussines Requirement & Insight
 1. Top 3 Countries by Profit (2014)
 
+
 Insight:
    - United States, India and China generated the highest profit in 2014.
    - United States maintained profitability across all years due to a strong customer base.
