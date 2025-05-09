@@ -84,14 +84,14 @@ The  measure used.Total customer across all the countries
 
 2. Three subcategories with the highest Average Shipping Cost (USA)
 
-Insight:
+- Insight:
    - Heavier products like Copiers, Machines and Tables incur higher shipping costs.
    - The average shippig cost is placed in the middle
 - Measure Used: [Average Shipping Cost USA](Dax_Measures.md#average-shipping-cost-usa), [Average Shipping Cost](Dax_Measures.md#average-shipping-cost) and the subcategory column.
 
 3. Least Average Profitable City in the United States
 
-Insight:
+- Insight:
    - Lancaster had low average profit despite that its order is above ten.
    - Cities with discount rates above 0.16 showed reduced profitability and average profitability.
    - High Discount is responsible for there low profit.
