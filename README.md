@@ -51,37 +51,28 @@ As a data analyst I was tasked with the following
  ![Total Sales](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050748.png?raw=true) 
 
 - Insight:
-- Measure Used:
+- Measure Used: [Total Sales](Dax_Measures.md#total-sales)
 
  ### Total profit
 
 ![Total Profit](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050818.png?raw=true)
 
 - Insight:
-- Measure Used
+- Measure Used: [Total Profit](Dax_Measures.md#total-profit)
 
 ### Average Discount
 
 ![Average Discount](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050927.png?raw=true)
 
 - Insight:
-- Measure Used:
+- Measure Used: [Average Discount](Dax_Measures.md#average-discount)
 
 ### Total Orders
 
 ![Total Orders](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050834.png?raw=true)
 
 - Insight:
-- Measure Used:
-
-- Average Shipping cost
-
-- Insight:
-- Measure Used:
-
-- Total customer 
-- picture of the total customer 
-The  measure used.Total customer across all the countries
+- Measure Used: [Total Orders](Dax_Measures.md#total-orders)
 
 ### Bussines Requirement & Insight
 1. Top 3 Countries by Profit (2014)
