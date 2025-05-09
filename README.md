@@ -42,8 +42,8 @@ As a data analyst I was tasked with the following
 - Created a calendar table for time-based analysis.
 - Created a separate Measures Table for all DAX calculations
 
-### Measures 
-- All measures used in this analysis can be assessed here
+### Measures Used
+- All measures used in this analysis can be assessed here [View DAX Measures](./Dax_Measures.md).
 
 ### KPI 
 - Total sales
