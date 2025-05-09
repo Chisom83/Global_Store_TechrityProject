@@ -1,7 +1,19 @@
 # Global_SuperStore
 
 ## Table of Content
-## project Overview
+[Project Overview](project-overview)
+
+[Measures Used](measures-used)
+
+[Bussines Requirement and Insight](bussines-requirement-and-insight)
+
+[Recommendations](recommendations)
+
+[Conclusion](conclusion)
+
+[Dashboard](dashboard)
+
+## Project Overview
 Global Superstore is a global online retailer based in New York, boasting a broad product catalogue and aiming to be a one-stop-shop for its customers. Global Superstore’s
 clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. 
 
@@ -88,7 +100,7 @@ As a data analyst I was tasked with the following
    - 
 - Measure Used: [Total Orders](Dax_Measures.md#total-orders)
 
-### Bussines Requirement & Insight
+### Bussines Requirement and Insight
 1. Top 3 Countries by Profit (2014)
 
 ![Top 3 Countries by Profit](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20124943.png?raw=true)
