@@ -83,7 +83,8 @@ The  measure used.Total customer across all the countries
   
 
 2. Three subcategories with the highest Average Shipping Cost (USA)
-
+   
+![USa Average Shippingcost by subcategory](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20081201.png?raw=true)
 - Insight:
    - Heavier products like Copiers, Machines and Tables incur higher shipping costs.
    - The average shippig cost is placed in the middle
