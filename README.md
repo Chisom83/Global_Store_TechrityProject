@@ -189,7 +189,11 @@ As a data analyst I was tasked with the following
 Discounting is a key driver of low profitability despite strong sales. Top-performing markets (e.g., United State, South African in the African region) had minimal or no discounts. Strategic reduction in discounts can significantly improve profit without sacrificing sales volume.
 
 ### Dashboard
-![Dashboard 1](https://github.com/Chisom83/Global_SuperStore/blob/main/Dashboard/Screenshot%202025-05-09%20124742.png?raw=true)
+
+![Dashboard 1](https://github.com/Chisom83/Global_SuperStore/blob/main/Dashboard/Screenshot%202025-05-09%20124917.png?raw=true)
+
+![Dashboard 2](https://github.com/Chisom83/Global_SuperStore/blob/main/Dashboard/Screenshot%202025-05-09%20124742.png?raw=true)
+
 link to dataset 
 
 
