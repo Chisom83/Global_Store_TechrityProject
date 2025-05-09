@@ -45,26 +45,29 @@ As a data analyst I was tasked with the following
 ### Measures Used
 - All measures used in this analysis can be assessed here [View DAX Measures](./Dax_Measures.md).
 
-### KPI 
-- Total sales
+## KPI 
+### Total sales
 
  ![Total Sales](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050748.png?raw=true) 
 
 - Insight:
 - Measure Used:
 
-- Total profit
+ ### Total profit
 
 ![Total Profit](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050818.png?raw=true)
 
 - Insight:
 - Measure Used
 
-- Average Discount
-- picture of the average discount 
-The measure used. Calculate the average discount across all products 
+### Average Discount
 
-- Total Orders
+![Average Discount)(https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050927.png?raw=true)
+
+- Insight:
+- Measure Used:
+
+### Total Orders
 
 ![Total Orders](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20050834.png?raw=true)
 
