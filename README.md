@@ -86,7 +86,8 @@ The  measure used.Total customer across all the countries
 
 Insight:
    - Heavier products like Copiers, Machines and Tables incur higher shipping costs.
-> visualization:
+   - The average shippig cost is placed in the middle
+- Measure Used: [Average Shipping Cost USA](Dax_Measures.md#average-shipping-cost-usa), [Average Shipping Cost](Dax_Measures.md#average-shipping-cost) and the subcategory column.
 
 3. Least Average Profitable City in the United States
 
@@ -94,7 +95,7 @@ Insight:
    - Lancaster had low average profit despite that its order is above ten.
    - Cities with discount rates above 0.16 showed reduced profitability and average profitability.
    - High Discount is responsible for there low profit.
-> Visualization
+> Measured Used: [Average Profit Per City](Dax_Measures.md#average-profit-per-city), [Average Discount](Dax_Measures.md#average-discount), [Total Orders](Dax_Measures.md#total-orders), [Total Profit](Dax_Measures.md#total-profit), [Total Sales](Dax_Measures.md#total-sales). and the city column
 
 4. Highest Average Profit Subcategory in Australia
 
@@ -102,7 +103,8 @@ Insight:
 
 - Insight:
    - Appliances stood out as the most average profitable subcategory.
-> Measure used
+   - Dark blue is used to spot the highest subcategory with the highest average profit.
+> Measure used: [Average Profit Austrialia](Dax_Measures.md#average-profit-austrialia), [Hex Colour](Dax_Measures.md#hex-colour) and the subcategory region.
 
 5. Nigeria's Profitability (2014 vs Other African Countries)
 
