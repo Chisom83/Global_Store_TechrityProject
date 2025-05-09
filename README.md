@@ -114,6 +114,7 @@ The  measure used.Total customer across all the countries
 - To answer this question a second dashboard was created to easily compare Nigeria with other Africa countries based on sales, profit, discount, customers, orders, shipping cost etc.
 
 - KPI Used in this dashboard
+  ### Total Sales
 
 ![Nigeria Profitability](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094524.png?raw=true) 
 
