@@ -115,13 +115,15 @@ The  measure used.Total customer across all the countries
 
 - KPI Used in this dashboard
 
-> Visualization: 
-Insight:
+![Nigeria Profitability](https://github.com/Chisom83/Global_SuperStore/blob/main/Image%202/Screenshot%202025-05-09%20094524.png?raw=true) 
+
+- Insight:
    - Across 45 African countries that patronize the store, Nigeria has the highest customers and order volume but lowest profit.
    - In order of ranking in total Sales Nigeria ranked the fifth and the least in total profit showing that they are making sales but generating no profit at all.
    - High discount rates is the primary factors leading to low profit.
    - Discounts are applied to every product ordered, which significantly reduces profit margins.
    - shipping costs in Nigeria are relatively moderate, and not a contributing factor to the poor profit performance.
+> Measures Used:
   
 ### Recommendations
 - Temporarily Eliminate Discounts:
