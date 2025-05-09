@@ -71,11 +71,12 @@ The  measure used.Total customer across all the countries
 ### Bussines Requirement & Insight
 1. Top 3 Countries by Profit (2014)
 
-![Top 3 Countries by Profit](./Image/Screenshot 2025-05-09 051839.png)
-Insight:
+![Top 3 Countries by Profit](https://github.com/Chisom83/Global_SuperStore/blob/main/Image/Screenshot%202025-05-09%20051839.png?raw=true)
+
+- Insight:
    - United States, India and China generated the highest profit in 2014.
    - United States maintained profitability across all years due to a strong customer base.
-> Visualization: 
+> Measure used: 
 
 - For each of these countries, the top 3 products by profit were identified using tooltips.
    - Hovering over each country reveals a tooltip showing the top 3 most profitable products in that region for 2014.
