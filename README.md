@@ -1,5 +1,7 @@
 # Global_SuperStore
 
+![Logo GobalStore](https://github.com/Chisom83/Global_Store_TechrityProject/blob/main/Image/Global_Store.jpg?raw=true)
+
 ## Table of Content
 [Project Overview](#project-overview)
 
