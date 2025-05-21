@@ -207,7 +207,8 @@ Discounting is a key driver of low profitability despite strong sales. Top-perfo
 - Dashboard 2
 ![Dashboard 2](https://github.com/Chisom83/Global_SuperStore/blob/main/Dashboard/Screenshot%202025-05-09%20124742.png?raw=true)
 
-- link to dataset 
+- link to dataset
+https://tinyurl.com/Global-stores
 
 
 
