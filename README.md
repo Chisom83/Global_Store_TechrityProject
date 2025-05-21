@@ -50,6 +50,7 @@ As a data analyst I was tasked with the following
 - Data Source: Global Superstore dataset in Microsoft Excel [download here].(https://www.microsoft.com)
 
 ### Data Cleaning and Modeling
+- Removed duplicate for quality analysis.
 - Removed irrelevant columns not necessary for my analysis.
 - Created a calendar table for time-based analysis.
 - Created a separate Measures Table for all DAX calculations
