@@ -20,7 +20,7 @@ Global Superstore is a global online retailer based in New York, boasting a broa
 clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. 
 
 This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
-I'm contracted as a Data Analyst to help Global Superstore analyze and draw outmeaningful insight from the Superstore dataset, which would aid management in making informed decisions to improve performance and profitability. 
+I'm contracted as a Data Analyst to help Global Superstore analyze and draw out meaningful insight from the Superstore dataset, which would aid management in making informed decisions to improve performance and profitability. 
 
 ### Project Objectives
 As a data analyst I was tasked with the following
